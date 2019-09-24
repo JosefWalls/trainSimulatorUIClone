@@ -1,0 +1,118 @@
+body {
+    background: rgb(127, 127, 127)
+}
+
+button {
+ background: white;;
+ border: none;
+ padding: 0.5vh 0.5vw 0.5vh 0.5vw;
+ border-radius: 10%;
+ box-shadow: 15px 10px 15px -9px rgba(27,0,181,0.28);
+ color: rgb(40, 69, 99);
+ font-family: 'Raleway', sans-serif;
+}
+
+
+#community {
+    position: absolute;
+    top: 5vh;
+    left: 84vw;
+}
+
+#settings {
+    position: absolute;
+    top: 5vh;
+    left: 90vw;
+}
+
+#mainSelectorBackground {
+        background: rgb(234, 243, 250);
+        padding:  10px 40px 65px 40px;
+        position: absolute;
+        top: 20vh; /*17.5 is for the top of the search bar and buttons (like how its higher than the rest)*/
+        bottom: 5vh;
+        left: 5vw;
+        right: 5vw;
+        border: 1px solid rgb(2, 54, 104)
+}
+
+#quickDrive {
+   background: rgb(234, 243, 250);
+   padding: 2vh 2vw 2vh 2vw;
+   position: absolute;
+   top: 12.7vh;
+   left: 5vw;
+   border: 1px solid rgb(2, 54, 104);
+   font-size: 1.5em;
+}
+
+ #career {
+    padding: 2vh 3.6vw 2vh 3.6vw;
+    position: absolute;
+    top: 12.7vh;
+    left: 18.75vw;
+    border: 1px solid rgb(2, 54, 104);
+    color: white;
+    background: rgb(2, 54, 104);
+    font-size: 1.5em;
+ }
+
+ 
+ #standard {
+    padding: 2vh 3.6vw 2vh 3.6vw;
+    position: absolute;
+    top: 12.7vh;
+    left: 31.75vw;
+    border: 1px solid rgb(2, 54, 104);
+    color: white;
+    background: rgb(2, 54, 104);
+    font-size: 1.5em;
+ }
+
+
+#freeRoam {
+    padding: 2vh 3.6vw 2vh 3.6vw;
+    position: absolute;
+    top: 12.7vh;
+    left: 46.75vw;
+    border: 1px solid rgb(2, 54, 104);
+    color: white;
+    background: rgb(2, 54, 104);
+    font-size: 1.5em;
+}
+
+
+#workshop {
+    padding: 2vh 3.6vw 2vh 3.6vw;
+    position: absolute;
+    top: 12.7vh;
+    left: 63.25vw;
+    border: 1px solid rgb(2, 54, 104);
+    color: white;
+    background: rgb(2, 54, 104);
+    font-size: 1.5em;
+}
+
+#customize {
+    color: rgb(2, 54, 104);
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.25em;
+    font-weight: bold;
+    position: absolute;
+    top: 21vh;
+    left: 6vw;
+}
+
+#randomize {
+    background: rgb(218, 232, 241);
+    color: rgb(2, 54, 104);
+    border: 1px solid rgb(2, 54, 104);
+    padding: 2vh 3vw 2vh 3vw;
+    position: absolute;
+    top: 23vh;
+    left: 27vw;
+}
+
+#randomize hover {
+    background: gray;
+}

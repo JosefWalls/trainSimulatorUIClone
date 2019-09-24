@@ -1,0 +1,127 @@
+body {
+    background-image: url(https://hb.imgix.net/9bfc3e25813962689710481c09d85abfb8ebe157.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=aa255f4730c1871939e38fd07b39c934);
+    background-size: cover;
+}
+
+button {
+ background: white;;
+ border: none;
+ padding: 0.5vh 0.5vw 0.5vh 0.5vw;
+ border-radius: 10%;
+ box-shadow: 15px 10px 15px -9px rgba(27,0,181,0.28);
+ text-transform: uppercase;
+ color: rgb(40, 69, 99);
+ font-family: 'Anton', sans-serif;
+}
+#quit {
+    position: absolute;
+    top: 5vh;
+    left: 5vw;
+}
+
+#community {
+    position: absolute;
+    top: 5vh;
+    left: 80vw;
+}
+
+#settings {
+    position: absolute;
+    top: 5vh;
+    left: 90vw;
+}
+
+#bottomTransparent {
+    background: lightblue;
+    padding:  10px 40px 65px 40px;
+    position: absolute;
+    top: 75vh;
+    bottom: 0vh;
+    left: 0vw;
+    right: 0vw;;
+}
+
+#drive {
+    position: absolute;
+    top: 72vh;
+    left: 5vw;
+    right: 82vw;
+    bottom: 5vh;
+    font-size: 3.5vh;
+    padding-top: 16vh
+}
+
+#profile {
+    position: absolute;
+    top: 72vh;
+    left: 18.5vw;
+    right: 69vw;
+    bottom: 5vh;
+    font-size: 3.5vh;
+    padding-top: 16vh
+}
+
+#build {
+    position: absolute;
+    top: 72vh;
+    left: 31.5vw;
+    right: 56vw;
+    bottom: 5vh;
+    font-size: 3.5vh;
+    padding-top: 16vh
+}
+
+#academy {
+    position: absolute;
+    top: 72vh;
+    left: 44.5vw;
+    right: 43vw;
+    bottom: 5vh;
+    color: rgb(255, 127, 39);
+    font-size: 3.5vh;
+    padding-top: 16vh
+}
+
+#dovetailLive {
+    position: absolute;
+    top: 72vh;
+    left: 57.5vw;
+    right: 30vw;
+    bottom: 5vh;
+    font-size: 3.5vh;
+    padding-top: 16vh
+}
+
+#store {
+    position: absolute;
+    top: 72vh;
+    left: 70.5vw;
+    right: 17vw;
+    bottom: 5vh;
+    font-size: 3.5vh;
+    padding-top: 16vh
+}
+
+#newItem {
+    position: absolute;
+    top: 40vh;
+    left: 84.5vw;
+    right: 1vw;
+    bottom: 34vh;
+    border-top: 4vh solid  rgb(40, 69, 99)
+}
+
+#featuredItem {
+    position: absolute;
+    top: 67vh;
+    left: 84.5vw;
+    right: 1vw;
+    bottom: 7vh;
+    border-top: 4vh solid  rgb(40, 69, 99)
+}
+
+#newItemHeader {
+    padding-bottom: 30vh;
+    padding-right: 8vw;
+    color: red;
+}
