@@ -70,7 +70,7 @@ button {
  }
 
 
-#freeRoam {
+/* #freeRoam {
     padding: 2vh 3.6vw 2vh 3.6vw;
     position: absolute;
     top: 12.7vh;
@@ -79,7 +79,7 @@ button {
     color: white;
     background: rgb(2, 54, 104);
     font-size: 1.5em;
-}
+} */
 
 
 #workshop {
